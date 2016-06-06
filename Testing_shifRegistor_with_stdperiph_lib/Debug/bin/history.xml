@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=Testing_shifRegistor_with_stdperiph_lib.map -O0 --gc-sections -LC:/Users/Hwa-Neng/CoIDE/workspace/Testing_shifRegistor_with_stdperiph_lib -TC:\Users\Hwa-Neng\CoIDE\workspace\Testing_shifRegistor_with_stdperiph_lib\STM32F103C8_FLASH.ld -g">
+      <target file="Testing_shifRegistor_with_stdperiph_lib.elf" lastModified="15511e7def9">
+         <source file="..\obj\GPIO_setting.o" lastModified="1550c28b60b"/>
+         <source file="..\obj\startup_stm32f103xb.o" lastModified="15507b8f321"/>
+         <source file="..\obj\syscalls.o" lastModified="15507b8fa75"/>
+         <source file="..\obj\system_stm32f1xx.o" lastModified="15507b8eefd"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="15507b8f5a8"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="15507b8f888"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="15507b8f170"/>
+         <source file="..\obj\main.o" lastModified="15511e7dc9a"/>
+      </target>
+   </processor>
+</history>
